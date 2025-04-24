@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#curl -fsSL https://ollama.com/install.sh | sh
+
 echo '[Unit]
 Description=Ollama Service
 After=network-online.target
